@@ -10,6 +10,7 @@
 * auto on/off alarm
 
 ## TT_DevKit_SigMesh_CT.bin
+* K1 turn on all,K2 turn off all
 * SIG mesh light
 * color temperature adjustable
 * lightness adjustable
@@ -29,6 +30,7 @@
 * Node control,delete
 
 ## TT_DevKit_SigMesh_HSL.bin
+* K1 turn on all,K2 turn off all
 * Support HSL color tuning
 * Hue [0,360) ->0~0xffff
 * Sat [0,100] ->0~0xffff
